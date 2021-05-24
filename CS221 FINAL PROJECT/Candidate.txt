@@ -1,0 +1,6 @@
+1234567890129       Arslan       Independent Candidate       Brush       NA-3
+1234567890120       Hassan       PPP       Arrow       NA-1
+1234567890121       Nabeel       PTI       Bat       NA-2
+1234567890124       Haider       PMLN       Lion       NA-4
+1234567890122       Samin       JI       Book       NA-3
+1234567890128       Ali       AML       Speaker       NA-5
